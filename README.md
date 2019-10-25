@@ -1,4 +1,5 @@
-Câu lệnh trên teminal
+CPP CHECK
+1>Câu lệnh trên teminal
 cppcheck --enable=all --inconclusive --std=posix test.cpp Juliet_Test_Suite_v1.3_for_C_Cpp Juliet_Test_Suite_v1.3_for_C_Cpp 2> err.txt
 
 --enable=<id>        Enable additional checks. The available ids are:
@@ -32,6 +33,5 @@ common knowledge. It is not certain you’ll get any measurable difference in
 speed by fixing these messages.
 	870(portability)
 portability warnings. 64-bit portability. code might work different on different
-compilers. etc.
-
+compilers.
 
